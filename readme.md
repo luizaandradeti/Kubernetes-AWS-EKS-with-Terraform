@@ -10,7 +10,7 @@
 
 ## Source
 
--https://www.udemy.com/course/terraform-para-aws/
+- https://www.udemy.com/course/terraform-para-aws/
 
 ## Requisites
 
