@@ -62,10 +62,4 @@ terraform apply
 
 > [!NOTE]
 > 
-> This content is advanced, for mid-level or senior cloud engineers or software developers.
-> 
-> Purpose of this study: professional development only.
-> 
-> We do not recommend reading this content without first learning about the AWS cloud and having two years of development experience.
-> 
 > https://developer.hashicorp.com/terraform
